@@ -1,4 +1,4 @@
-# Srinivas Yerramsetty — Portfolio Website
+# Srinivas Yarramsetti — Portfolio Website
 
 A responsive personal portfolio with a pure white, blue-accent visual theme, built with plain HTML, CSS and JavaScript. No framework or build tools are required.
 
